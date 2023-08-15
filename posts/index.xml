@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on fn blog&lt;R: Read&gt;(reader: R);</title>
+    <link>https://blog.shymega.org.uk/posts/</link>
+    <description>Recent content in Posts on fn blog&lt;R: Read&gt;(reader: R);</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <managingEditor>shymega@shymega.org.uk (Dom Rodriguez (shymega))</managingEditor>
+    <webMaster>shymega@shymega.org.uk (Dom Rodriguez (shymega))</webMaster>
+    <copyright>Copyright © (CC-BY-SA 4.0) Dom Rodriguez 2018-{year}</copyright>
+    <lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.shymega.org.uk/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experiments in Cloud Gaming: Pt 1</title>
+      <link>https://blog.shymega.org.uk/posts/cloud-gaming-intro/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      <author>shymega@shymega.org.uk (Dom Rodriguez (shymega))</author>
+      <guid>https://blog.shymega.org.uk/posts/cloud-gaming-intro/</guid>
+      <description>(Initially posted here on my LinkedIn profile, but I&amp;rsquo;ve decided to move it to my blog, and tidy it up a bit.)
+The idea is to use the cloud to play games (yes, I know - but this is a fun application of what could be used in the workplace professionally - it&amp;rsquo;s the fundamental skillls in cloud tech that are important here), all controlled with AWS Lambda functions, and using Infrastructure as Code (IaC) to deploy the setup.</description>
+    </item>
+    
+    <item>
+      <title>Seizure prediction: v1</title>
+      <link>https://blog.shymega.org.uk/posts/seizure-prediction-v1/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      <author>shymega@shymega.org.uk (Dom Rodriguez (shymega))</author>
+      <guid>https://blog.shymega.org.uk/posts/seizure-prediction-v1/</guid>
+      <description>This post marks the beginning of a research project into seizure prediction.
+I have generalised epilepsy, after two tonic-clonic fits I experienced in December 2017. They were both preceded by an aura, which I ignored, and continued on my commute. Ultimately, I ended up collapsing, having a seizure, and being taken to hospital.
+I still have seizures, but these are mostly focal/absences/myoclonic. I&amp;rsquo;m worried when I leave the house on my own, and I find it difficult.</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://blog.shymega.org.uk/posts/hello-world/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      <author>shymega@shymega.org.uk (Dom Rodriguez (shymega))</author>
+      <guid>https://blog.shymega.org.uk/posts/hello-world/</guid>
+      <description>Welcome to my blog.
+I haven&amp;rsquo;t really gotten into blogging, but I&amp;rsquo;d like to share some stuff about my projects that I do in my spare time :)</description>
+    </item>
+    
+  </channel>
+</rss>
